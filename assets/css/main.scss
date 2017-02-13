@@ -194,7 +194,8 @@ blockquote {
 			margin-top: 10px;
 			margin-bottom: 10px;
 			display: block;
-			width: 100%;
+			max-width: 100%;
+			height: auto;
 			@media screen and (max-width: $br) {
 				width: 100%;
 				margin: auto;

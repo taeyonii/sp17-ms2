@@ -193,6 +193,7 @@ blockquote {
 		img {
 			margin-top: 10px;
 			margin-bottom: 10px;
+			display: block;
 			@media screen and (max-width: $br) {
 				width: 100%;
 				margin: auto;

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Respond to D4TC
+title: 'Respond to D4TC: Queering Human-Game Relations'
 ---
-# Queering Human-Game Relations
 
 The article is a shortened transcript which was presented as a keynote address at the 2014 Queerness & Games Conference by Naomi Clark and Merritt Kopas. They use the term “queer”, not just mean homosexuality, but rather a more intrinsic explanation of the relationship between humans and games. They also explain how a phenomenon can be encoded when it encounters a specific mechanism.
 

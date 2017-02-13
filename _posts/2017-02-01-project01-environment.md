@@ -19,8 +19,8 @@ The visual appeal of color will only last a few seconds. A moment of appreciatin
 People who lost colors in their life.
 
 ## Rough Sketch of Project(Schematic)
-![sketch](/sp17-ms2/assets/img/project01/sketch.jpg)
+![sketch](/sp17-ms2/assets/img/project01/sketch.jpg){: width="600px"}
 
 ## Prototype 1
-![proto1](/sp17-ms2/assets/img/project01/proto01_1.jpg)
-![proto1](/sp17-ms2/assets/img/project01/proto01_2.jpg)
+![proto1](/sp17-ms2/assets/img/project01/proto01_1.jpg){: width="600px"}
+![proto1](/sp17-ms2/assets/img/project01/proto01_2.jpg){: width="600px"}

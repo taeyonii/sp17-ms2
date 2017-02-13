@@ -4,7 +4,7 @@ title: 'Project00: based on D4TC'
 ---
 What I ultimately meant to say through prototyping was that some media (games in this article) could serve as a bridge between individuals and society. The best part of this article was that the game was to change the perception through the play process. Therefore, we set up the same objects in different environments, so that the audience can change their perception of the space. This is a kind of play. The rules of this project are as follows.
 
-![prototype](/sp17-ms2/assets/img/project00/prototype.jpg){: width="10%"}
+![prototype](/sp17-ms2/assets/img/project00/prototype.jpg)
 
 (Number of participants required = Number of spaces)
 

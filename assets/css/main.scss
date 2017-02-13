@@ -193,9 +193,11 @@ blockquote {
 		img {
 			margin-top: 10px;
 			margin-bottom: 10px;
-			display: block;
+			max-width: 600px;
 			@media screen and (max-width: $br) {
+				display: block;
 				max-width: 600px;
+				height: auto;
 			}
 		}
 		code {

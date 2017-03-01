@@ -175,7 +175,7 @@ blockquote {
 		}
 		ul {
 			font-size: 1em;
-			list-style: circle;
+			list-style: disc;
 			margin-left: 30px;
 			margin-top: -10px;
 			margin-bottom: 15px;
@@ -245,6 +245,38 @@ blockquote {
 			font-size: 1em;
 			line-height: 150%;
 			margin-bottom: 10px;
+		}
+	}
+}
+.research {
+	&__title {
+		font-size: 1.6em;
+		font-weight: 700;
+		margin-top: 20px;
+		margin-bottom: 10px;
+	}
+	&__content {
+		margin-top: 20px;
+		h1 {
+			font-size: 1.2em;
+			font-style: italic;
+			margin-top: 30px;
+			margin-bottom: 5px;
+		}
+		p {
+			font-size: 1em;
+			line-height: 150%;
+			margin-bottom: 10px;
+		}
+		ul {
+			list-style: disc;
+			li {
+				padding: 5px;
+				padding-left: 10px;
+				@media screen and (max-width: $br) {
+				padding: 10px 0 10px 0;
+				}
+			}
 		}
 	}
 }

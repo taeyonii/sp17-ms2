@@ -15,5 +15,5 @@ layout: research
 
 # Researchers
 + [David Eagleman](http://www.eagleman.com/)
-	- [Laboratory](http://www.eaglemanlab.net/) 
-	- [Ted talk: Can we create new senses for humans?](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans/transcript?language=ko#t-450122)
+	+ [Laboratory](http://www.eaglemanlab.net/) 
+	+ [Ted talk: Can we create new senses for humans?](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans/transcript?language=ko#t-450122)

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="header">
+    <h1>{{ site.name }}</h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="about">
+    <a class="about__back" href="/sp17-ms2">&lt;-- back</a>
+    <h1 class="about__title">References: </h1>
+    <div class="about__content" style="text-align: justify">
+        {{ content }}
+    </div>
+</div>

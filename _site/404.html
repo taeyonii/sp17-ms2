@@ -14,17 +14,13 @@
     </script>
 
 
- {% if page.title %}
- <title>{{ page.title }}</title>
- {% else %}
- <title>{{ site.name }}</title>
- {% endif %}
+ 
+ <title>Page Does Not Exist...</title>
+ 
 
- <meta name="description" content="{{ site.description }}">
+ <meta name="description" content="(Blog) Major Studio 2">
 
- {% if site.google_verification %}
- <meta name="google-site-verification" content="{{ site.google_verify }}">
- {% endif %}
+ 
 
  <link rel="icon" href="/sp17-ms2/assets/img/favicon.png">
  <link rel="stylesheet" 
@@ -36,7 +32,10 @@
 <body>
 
     <div class="wrapper">
-        {{ content }}
+        <p><a class="post__back" href="/">&lt;-- back</a></p>
+<br>
+<p>Sorry this page does not exist...</p>
+
     </div>
 
 </body>

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Respond to D4TC: Queering Human-Game Relations'
+title: '[Respond to D4TC] Queering Human-Game Relations'
+category: project00
 state: fin
 ---
 

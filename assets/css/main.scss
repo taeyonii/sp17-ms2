@@ -91,6 +91,7 @@ blockquote {
 .blog {
 	padding-bottom: 30px;
 	h1 {
+		display: inline;
 		font-size: 1.4em;
 		margin-bottom: 5px;
 	}
@@ -99,7 +100,8 @@ blockquote {
 .indicator {
 	text-align: center;
 	border-radius: 5px;
-    color: #e5e5e5; 
+    background-color: #e5e5e5; 
+    padding: 5px;
     width: 200px;
     height: 20px; 
 }

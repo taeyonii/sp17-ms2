@@ -9,7 +9,7 @@
 
 
 	
-	<title>Page Does Not Exist...</title>
+	<title>Project02: Objects/Genesis</title>
 	
 
 	<meta name="description" content="(Blog) Major Studio 2">
@@ -26,9 +26,46 @@
 <body>
 
 	<div class="wrapper">
-		<p><a class="post__back" href="/">&lt;-- back</a></p>
-<br>
-<p>Sorry this page does not exist...</p>
+		<div class="header">
+    <h1>Taeyeon Kim</h1>
+    <ul>
+        
+        <li>
+            <a href="/sp17-ms2/about">about</a>
+        </li>
+        
+        <li>
+            <a href="/sp17-ms2/">MS2(sp17)</a>
+        </li>
+        
+        <li>
+            <a href="/sp17-ms2/research">research</a>
+        </li>
+        
+    </ul>
+</div>
+
+<div class="post">
+	<div class="post__back">
+       <a href="/sp17-ms2">&lt;-- back</a>
+   </div>
+   <div class="post__title">
+       <h1>Project02: Objects/Genesis</h1>
+   </div>
+   <div class="post__date">
+       <p>February 8, 2017</p>
+   </div>
+   <div class="post__meta">
+       <p></p>
+   </div>
+   <div class="post__content" style="text-align: justify" ?> 
+       <div id="toc"></div>
+       
+   </div>
+</div>
+
+
+
 
 	</div>
 

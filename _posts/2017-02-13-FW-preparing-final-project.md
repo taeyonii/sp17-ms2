@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Final Project: Start from the reading'
+category: free write
+state: wip
 ---
 Based on the reading,
 Propose 3 questions that might be my final project question.

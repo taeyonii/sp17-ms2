@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-
-
-<script>
-$(document).ready(function() {
-    $('#toc').toc();
-});
-</script>
-
 <div class="header">
     <h1>{{ site.name }}</h1>
     <ul>
@@ -33,7 +25,7 @@ $(document).ready(function() {
    <div class="post__meta">
        <p>{{ tags_content }}</p>
    </div>
-   <div class="post__content" style="text-align: justify" ?>
+   <div class="post__content" style="text-align: justify" ?> 
        <div id="toc"></div>
        {{ content }}
    </div>

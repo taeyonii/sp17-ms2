@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 
  
@@ -27,7 +27,13 @@
 <body>
 
     <div class="wrapper">
-        <div class="header">
+        <script>
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>
+
+<div class="header">
     <h1>Taeyeon Kim</h1>
     <ul>
         
@@ -60,6 +66,7 @@
        <p></p>
    </div>
    <div class="post__content" style="text-align: justify" ?>
+       <div id="toc"></div>
        <p>What I ultimately meant to say through prototyping was that some media (games in this article) could serve as a bridge between individuals and society. The best part of this article was that the game was to change the perception through the play process. Therefore, we set up the same objects in different environments, so that the audience can change their perception of the space. This is a kind of play. The rules of this project are as follows.</p>
 
 <p><img src="/sp17-ms2/assets/img/project00/prototype.jpg" alt="prototype" /></p>

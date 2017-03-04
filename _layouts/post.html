@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+<script>
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>
+
 <div class="header">
     <h1>{{ site.name }}</h1>
     <ul>
@@ -27,7 +34,8 @@ layout: default
        <p>{{ tags_content }}</p>
    </div>
    <div class="post__content" style="text-align: justify" ?>
-       {{ content | toc_generate }}
+       <div id="toc"></div>
+       {{ content }}
    </div>
 </div>
 

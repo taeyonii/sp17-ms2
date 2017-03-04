@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Project01: Environments/Color Play'
+status: wip
 ---
 ## Team
 Estee Bruno and Taeyeon Kim

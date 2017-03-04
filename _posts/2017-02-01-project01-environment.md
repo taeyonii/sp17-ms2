@@ -3,7 +3,6 @@ layout: post
 title: 'Project01: Environments/Color Play'
 state: wip
 ---
-<div id="toc"><p class="toc_title">contents</p></div>
 
 # Team
 `Taeyeon Kim / Estee Bruno`

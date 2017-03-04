@@ -1,34 +1,46 @@
-div#toc {
-  background:none repeat scroll 0 0 #f9f9f9;
-  border:1px solid #aaa;
-  display:table;
-  margin-left:1em;
-  margin-bottom:1em;
-  width:auto;
-  padding:10px 20px;
-  float: right;
+
+#toc, .toc, .mw-warning {
+    display: inline-block;
+    border-radius: 8px;
+    background-color: #EEEEEE;
+    font-size: 95%;
+    padding: 5px;
 }
-div#toc ul {
-  list-style:none;
-  margin-left:0;
-  padding-left:.5em;
-  font-size:90%;
-  line-height:1.5;
+#toc h2, .toc h2 {
+    border: medium none;
+    display: inline;
+    font-size: 100%;
+    font-weight: bold;
+    padding: 0;
 }
-.toc_title {
-  font-size:125%;
-  font-weight:400;
-  color:#1C1C1C;
-  line-height:1.2em;
-  margin:.5em 0;
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
+    text-align: center;
+    margin:0 8px 4px 14px;
+    padding-top:8px;
+    line-height: 1.5;
+    overflow:hidden;
 }
-div#toc ul li ul,div#toc1 ul li ul,.mobile div#toc1 ul li ul {
-  margin-bottom:.75em;
+
+
+#toc ul, .toc ul {
+    list-style-image: none;
+    list-style-type: none;
+    margin:0 8px 7px 14px;
+    padding-left: 0;
+    text-align: left;
 }
-div#toc ul li ul li ul,div#toc1 ul li ul li ul,.mobile div#toc1 ul li ul li ul {
-  margin-bottom:.25em;
+#toc ul ul, .toc ul ul {
+    margin: 0 0 0 2em;
 }
-div#toc1 ul,.mobile div#toc1 ul {
-  list-style:none;
-  margin:.25em 0 1.5em 1em;
+#toc .toctoggle, .toc .toctoggle {
+    font-size: 94%;
+}
+
+#toc ul li {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#toc-container {
+	margin-bottom: 10px;
 }

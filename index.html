@@ -18,9 +18,9 @@ layout: default
         {% for post in site.posts %}
         <li>
             {% if post.state == 'wip' %}
-                <img src="assets/open-iconic/svg/loop-circular.svg" alt="loop-circular" style="fill:green">
+                <img src="/sp17-ms2/assets/open-iconic/svg/loop-circular.svg" alt="loop-circular" style="fill:green">
             {% elsif post.state == 'fin' %}
-                <img src="assets/open-iconic/svg/task.svg" alt="task" style="fill:red">
+                <img src="/sp17-ms2/assets/open-iconic/svg/task.svg" alt="task" style="fill:red">
             {% endif %}
             - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>

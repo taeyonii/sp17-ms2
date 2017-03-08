@@ -14,7 +14,7 @@ layout: default
 
 <div class="post">
 	<div class="post__back">
-       <a href="/sp17-ms2">&lt;-- back</a>
+       <a href="/sp17-ms2/">&lt;-- back</a>
    </div>
    <div class="post__title">
        <h1>{{ page.title }}</h1>
@@ -26,12 +26,10 @@ layout: default
        <p>{{ tags_content }}</p>
    </div>
    <div class="post__content" style="text-align: justify" ?> 
-       {% if post.state == 'wip' %}
-                <img src="/sp17-ms2/assets/img/wip.svg" alt="wip" height="15" width="15">: 
-                {% elsif post.state == 'fin' %}
-                <img src="/sp17-ms2/assets/img/fin.svg" alt="fin" height="15" width="15">:
-            {% endif %}
-       {{ content }}
+   {% if page.toc %}
+   <div id=toc></div>
+   {% endif %}
+   {{ content }}
    </div>
 </div>
 

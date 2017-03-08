@@ -2,7 +2,7 @@
 layout: post
 title: '[Inclass Workshop] Research Question'
 category: final
-toc: tocy
+toc: true
 state: wip
 ---
 # Research Question should read like a good STORY

@@ -5,7 +5,7 @@ category: Env/Obj/Play
 state: wip
 ---
 **Team:** `Taeyeon Kim / Estee Bruno`
-![proto1](/sp17-ms2/assets/img/project01/intro.jpg){: width="310px"}
+![intro](/sp17-ms2/assets/img/project01/intro.jpg){: width="310px"}
 <iframe src="https://docs.google.com/presentation/d/1WJQBivsv12_DmmSXA3skMtxw8qeuaQpVZD9qnU19oy8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # Proposal

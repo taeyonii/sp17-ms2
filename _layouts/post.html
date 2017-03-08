@@ -26,7 +26,11 @@ layout: default
        <p>{{ tags_content }}</p>
    </div>
    <div class="post__content" style="text-align: justify" ?> 
-       <div id="toc"></div>
+       {% if post.state == 'wip' %}
+                <img src="/sp17-ms2/assets/img/wip.svg" alt="wip" height="15" width="15">: 
+                {% elsif post.state == 'fin' %}
+                <img src="/sp17-ms2/assets/img/fin.svg" alt="fin" height="15" width="15">:
+            {% endif %}
        {{ content }}
    </div>
 </div>

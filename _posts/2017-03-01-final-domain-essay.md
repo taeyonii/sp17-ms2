@@ -1,66 +1,11 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-
-
-	
-	<title>[Final Project] Domain Essay</title>
-	
-
-	<meta name="description" content="(Blog) Major Studio 2">
-
-	
-
-	<link rel="icon" href="/sp17-ms2/assets/img/favicon.png">
-	<link rel="stylesheet" 
-	href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
-	<link rel="stylesheet" type="text/css" href="/sp17-ms2/assets/css/main.css">
-	<link rel="stylesheet" type="text/css" media="screen" href="/sp17-ms2/assets/css/toc.css">
-</head>
-
-<body>
-
-	<div class="wrapper">
-		<div class="header">
-    <h1>Taeyeon Kim</h1>
-    <ul>
-        
-        <li>
-            <a href="/sp17-ms2/about">about</a>
-        </li>
-        
-        <li>
-            <a href="/sp17-ms2/">MS2(sp17)</a>
-        </li>
-        
-        <li>
-            <a href="/sp17-ms2/research">research</a>
-        </li>
-        
-    </ul>
-</div>
-
-<div class="post">
-	<div class="post__back">
-       <a href="/sp17-ms2">&lt;-- back</a>
-   </div>
-   <div class="post__title">
-       <h1>[Final Project] Domain Essay</h1>
-   </div>
-   <div class="post__date">
-       <p>March 1, 2017</p>
-   </div>
-   <div class="post__meta">
-       <p></p>
-   </div>
-   <div class="post__content" style="text-align: justify" ?> 
-       <div id="toc"></div>
-       # The Importance of Multi Sense: Focus on Tangibility
+---
+layout: post
+title: '[Final Project] Domain Essay'
+category: final
+notoc: yes
+state: wip
+---
+# The Importance of Multi Sense: Focus on Tangibility
 ## Statement
  The purpose of this project is to expand the cognitive scope through multiple senses and to stimulate the user's emotions by actually acquiring the sense of space and material. According to Eagleman, we're not seeing all the waves out there. Our experience of reality is constrained by our biology. Brains are sampling just a little bit of the world. What the brain sees are electrochemical signals that come in along different data cables, and this is all it has to work with, and nothing more. The brain is really good at taking in these signals and extracting patterns and assigning meaning, so that it takes this inner cosmos and puts together a story of this, our subjective world. If we embrace the senses we have never experienced before, the creative ideas that come from them will be more than we imagine. Also, I think that it is not a real way of communication between human-machine interaction with the machine-like device. Aesthetic appearance, of course, also occupies a large part. However, most important thing is that how its system process. When the system itself is designed to stimulate the human senses to the utmost, the feeling of immersion and the flow at the moment can be a true form of interaction.
  Chapman described the relationship between human and objects is from embracing. This epoch-making Societal transition has cast us within an abstract version of reality in which empathy and meaning are sought from toasters, mobile phones and other fabricated experiences. Today, empathy is consumed not so much from each other, but through fleeting embraces with designed objects. Empathy is one of the most important virtues that human beings must have. But modern people, especially those who were grown in the high-tech era, are now accustomed to a screen-based flattened world. We can not ignore the advantages of the world on the screen, but according to Roe and Mujis, screen-based technologies have a tendency to pull them away from their physical environment and make them physically and socially isolated. I personally believe that technology must benefit human in a very human way. So my project is located in the largest area of compassionate and empathetic according to my beliefs on technology.
@@ -96,23 +41,3 @@ Keith Roe and Daniel Mujis. 1998. Children and computer games – A profile of t
 
 
 
-
-   </div>
-</div>
-
-
-
-
-	</div>
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-	<script src="/sp17-ms2/assets/js/toc.js"></script>
-	<script>
-	$(document).ready(function() {
-    $('#toc').toc({ noBackToTopLinks: true, headers: 'h1, h2', showSpeed: 0});
-});
-	</script>
-
-</body>
-
-</html>

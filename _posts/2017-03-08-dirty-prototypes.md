@@ -20,11 +20,12 @@ I suggest entertaining contents that are satisfying the five human senses with a
 + How do we create empathy in mediated experiences?
 
 # Prototype01: Role
-![proto-proto](/sp17-ms2/assets/img/project_final/dirty_proto/proto01.jpg)
+![](/sp17-ms2/assets/img/project_final/dirty_proto/proto01.jpg)
+![](/sp17-ms2/assets/img/project_final/dirty_proto/proto01_.jpg)
 
 # Prototype02: Look and Feel
 <br><br>
-![proto-proto](/sp17-ms2/assets/img/project_final/dirty_proto/proto02.jpg)
+![](/sp17-ms2/assets/img/project_final/dirty_proto/proto02.jpg)
 <br><br>
 
 # Prototype03: Implementation

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Project01: Environments/Color Play'
-category: Env/Obj/Play
+title: '[Project01] Environments/Color Play'
+categories: [project0123]
 toc: true
 state: fin
 ---

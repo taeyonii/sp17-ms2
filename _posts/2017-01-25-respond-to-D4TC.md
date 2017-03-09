@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Respond to D4TC] Queering Human-Game Relations'
-category: project00
+categories: [project0123]
 state: fin
 ---
 

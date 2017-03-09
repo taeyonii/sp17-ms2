@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Final Project] Domain Essay'
-category: final
+categories: [writing, final]
 notoc: yes
 state: wip
 ---

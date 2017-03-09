@@ -1,6 +1,7 @@
 
 #toc{
-    display: inline-block;
+    display: block;
+    width: 600px;
     border-radius: 8px;
     background-color: #EEEEEE;
     font-size: 95%;
@@ -11,6 +12,7 @@
 }
 #toc p {
     text-align: center;
+    font-weight: bolder;
     padding: 10px;
     margin: 0;
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '[wk5] Presentation'
-category: Env/Obj/Play
+title: '[wk5] Env/Obj/Play Presentation'
+categories: [project0123]
 notoc: yes
 state: wip
 ---

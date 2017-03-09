@@ -1,6 +1,6 @@
 ---
 layout: post
 title: '[wk3] Reading Assessment'
-category: writing
+categories: [writing]
 state: wip
 ---

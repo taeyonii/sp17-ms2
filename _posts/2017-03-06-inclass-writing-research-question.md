@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Inclass Workshop] Research Question'
-category: final
+categories: [final]
 toc: true
 state: wip
 ---

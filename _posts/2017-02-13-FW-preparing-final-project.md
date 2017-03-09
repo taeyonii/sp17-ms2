@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Final Project: Start from the reading'
-category: free write
+title: '[free write] Final Project: Start from the reading'
+categories: [writing, final]
 state: wip
 ---
 Based on the reading,

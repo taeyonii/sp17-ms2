@@ -14,22 +14,51 @@ layout: default
 </div>
 <div class="blog">
     <div class="sub_header">
-        <h1>Blog Posts:</h1>
+        <h1>Blog Posts</h1>
         <div class="indicator">
             <img src="/sp17-ms2/assets/img/wip.svg" alt="wip" height="15" width="15">: Work in Progress &ensp;
             <img src="/sp17-ms2/assets/img/fin.svg" alt="fin" height="15" width="15">: Final Report 
         </div>
     </div>
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            {% if post.state == 'wip' %}
+    <div class="sub_header">
+        <h2>Final Project:</h2>
+        <ul>
+            {% for post in site.categories.final %}
+            <li>
+                {% if post.state == 'wip' %}
                 <img src="/sp17-ms2/assets/img/wip.svg" alt="wip" height="15" width="15">: 
                 {% elsif post.state == 'fin' %}
                 <img src="/sp17-ms2/assets/img/fin.svg" alt="fin" height="15" width="15">:
-            {% endif %}
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+                {% endif %}
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <h2>D4TC / Env / Obj / Play Project:</h2>
+        <ul>
+            {% for post in site.categories.project0123 %}
+            <li>
+                {% if post.state == 'wip' %}
+                <img src="/sp17-ms2/assets/img/wip.svg" alt="wip" height="15" width="15">: 
+                {% elsif post.state == 'fin' %}
+                <img src="/sp17-ms2/assets/img/fin.svg" alt="fin" height="15" width="15">:
+                {% endif %}
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <h2>Writing / inclass Workshop:</h2>
+        <ul>
+            {% for post in site.categories.writing %}
+            <li>
+                {% if post.state == 'wip' %}
+                <img src="/sp17-ms2/assets/img/wip.svg" alt="wip" height="15" width="15">: 
+                {% elsif post.state == 'fin' %}
+                <img src="/sp17-ms2/assets/img/fin.svg" alt="fin" height="15" width="15">:
+                {% endif %}
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>

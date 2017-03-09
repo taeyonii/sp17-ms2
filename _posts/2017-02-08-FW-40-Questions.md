@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40 Questions'
-category: free write
+title: '[Free Write] 40 Questions'
+categories: [writing]
 state: wip
 ---

@@ -266,9 +266,10 @@ blockquote {
 			font-size: 0.9em;
 			border-radius: 3px;
 			background: $color-grey;
+			tab-size: 2;
 		}
 		.highlight {
-			margin: 10px;
+			margin-top: 10px;
 			margin-bottom: 15px;
 			padding: 10px;
 			line-height: 1.5;
@@ -280,7 +281,7 @@ blockquote {
 			}
 		}
 		.codebreak {
-			margin: 15px;
+			margin: 15px 0 15px 0;
 			border: 0;
 			border-bottom: 1px dashed $color-black;
 		}

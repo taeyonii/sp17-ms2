@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+
+
+	
+	<title>[Final] 3 Dirty Prototypes</title>
+	
+
+	<meta name="description" content="(Blog) Major Studio 2">
+
+	
+
+	<link rel="icon" href="/sp17-ms2/assets/img/favicon.png">
+	<link rel="stylesheet" 
+	href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
+	<link rel="stylesheet" type="text/css" href="/sp17-ms2/assets/css/main.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="/sp17-ms2/assets/css/toc.css">
+</head>
+
+<body>
+
+	<div class="wrapper">
+		<div class="header">
+    <h1>Taeyeon Kim</h1>
+    <ul>
+        
+        <li>
+            <a href="/sp17-ms2/about">about</a>
+        </li>
+        
+        <li>
+            <a href="/sp17-ms2/">MS2(sp17)</a>
+        </li>
+        
+        <li>
+            <a href="/sp17-ms2/research">research</a>
+        </li>
+        
+    </ul>
+</div>
+<div class="post">
+	<div class="post__back">
+       <a href="/sp17-ms2/">&lt;-- back</a>
+   </div>
+   <div class="post__title">
+       <h1>[Final] 3 Dirty Prototypes</h1>
+   </div>
+   <div class="post__date">
+       <p>March 8, 2017</p>
+   </div>
+   <div class="post__meta">
+       <p></p>
+   </div>
+   <div class="post__content" style="text-align: justify" ?> 
+   
+   <h2 id="what-do-prototypes-prototype-">What do Prototypes Prototype <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></h2>
+<p><img src="/sp17-ms2/assets/img/project_final/dirty_proto/what_proto_proto.jpg" alt="proto-proto" width="450px" /></p>
+
+<blockquote>
+  <p><code class="highlighter-rouge">Role prototypes</code> are those which are built primarily to investigate questions of <em>what an artifact could do for a user</em>.</p>
+</blockquote>
+
+<blockquote>
+  <p><code class="highlighter-rouge">Look and feel prototypes</code> are built primarily to explore and demonstrate options <em>for the concrete experience of an artifact</em>.</p>
+</blockquote>
+
+<blockquote>
+  <p><code class="highlighter-rouge">Implemetation prototypes</code> are built primarily <em>to answer technical questions</em> about how a future artifact might actually be made to work.</p>
+</blockquote>
+
+<h1 id="project-proposal">Project Proposal</h1>
+<p>I suggest entertaining contents that are satisfying the five human senses with a tangible interface. The device is making visual, auditory, and tactile information. The animation to be screened on this device encourages the sense of taste and smell with its narrative.</p>
+
+<ul>
+  <li>How do we make immersive experience without blocking people’s sight?</li>
+  <li>How do we create empathy in mediated experiences?</li>
+</ul>
+
+<h1 id="prototype01-role">Prototype01: Role</h1>
+<p><img src="/sp17-ms2/assets/img/project_final/dirty_proto/proto01.jpg" alt="proto-proto" /></p>
+
+<h1 id="prototype02-look-and-feel">Prototype02: Look and Feel</h1>
+<p><br /><br />
+<img src="/sp17-ms2/assets/img/project_final/dirty_proto/proto02.jpg" alt="proto-proto" />
+<br /><br /></p>
+
+<h1 id="prototype03-implementation">Prototype03: Implementation</h1>
+<div class="highlighter-rouge"><pre class="highlight"><code>//pseudo code for 'project: Tangible'
+
+loop{
+	if(audience){
+		play(intro);
+		while(object_box){
+			if(detect hand.both_side){
+				tangible_mapping();
+				screen(object_box);
+			}
+		}
+	}else{
+		play(sound attraction);
+	}
+}
+
+tangible_mapping(){
+	camera = on;
+	object scannig in real time;
+	make 3D.depth.map;
+}
+screen(box_input){
+	anim = load_contents(box_input)
+	animate(3D.depth.map, anim);
+}
+</code></pre>
+</div>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Houde, Stephanie, and Charles Hill. “<a href="https://pdfs.semanticscholar.org/30bc/6125fab9d9b2d5854223aeea7900a218f149.pdf">What do Prototypes Prototype?</a>.”&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+   </div>
+</div>
+
+
+
+
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="/sp17-ms2/assets/js/toc.js"></script>
+	<script>
+	$(document).ready(function() {
+    $('#toc').toc({ noBackToTopLinks: true, headers: 'h1, h2', showSpeed: 0});
+});
+	</script>
+
+</body>
+
+</html>

@@ -7,9 +7,8 @@ state: fin
 ---
 **Team:** `Taeyeon Kim / Estee Bruno / Danielle Sobel`
 # Proposal
-![mapping](/sp17-ms2/assets/img/project_obj/proposal_map.jpg)
 ## Goals
-to critically consider the psychological relationships that people have with objects; how an interface creates meaning; how it structures & facilitates relationships; what an affordance is and how it affects usage & meaning.
+to critically consider the psychological relationships that people have with objects; how an interface creates meaning; how it structures and facilitates relationships; what an affordance is and how it affects usage and meaning.
 ## Concept Statement
 We are creating an egg shaped object that will contain elements of surprise to bring life and happiness to humans.
 ## Design Questions
@@ -19,6 +18,7 @@ Adults, people who are really stressed out. Suburban 50’s or older. People who
 Meaning Representative of childhood. And things that are useful such as a shoelace and fun things like a bouncy ball.
 ## Affordance
 To crack the egg shaped object open and finding the surprises inside.
+![mapping](/sp17-ms2/assets/img/project_obj/proposal_map.jpg)
 ## Precedents
 ### Wonderball
 ![wonderball](https://cmga360buzzworthy.files.wordpress.com/2016/02/wonderball2.png?w=640)
@@ -50,8 +50,8 @@ The biggest change was that everyone in the class had to experience this object.
 : Bubble gum, bouncy ball, cable tie, string, Hershey’s Chocolate, yellow confetti paper
 
 # Prototype03
-![proto3.1](/sp17-ms2/assets/img/project_obj/proto03_1.jpg)
-![proto3.2](/sp17-ms2/assets/img/project_obj/proto03_2.jpg)
+![proto3.1](/sp17-ms2/assets/img/project_obj/proto03.jpg)
+
 I focused on my personal experience in the last iterartion. The small works that I make with hands are joy and little happiness to me.
 So I used my own customized attiny board to represent my joyful memories, and did some simple physical computing work.
 

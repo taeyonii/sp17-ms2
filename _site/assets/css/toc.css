@@ -1,7 +1,6 @@
 
 #toc{
-    display: block;
-    width: 600px;
+    display: inline-block;
     border-radius: 8px;
     background-color: #EEEEEE;
     font-size: 95%;

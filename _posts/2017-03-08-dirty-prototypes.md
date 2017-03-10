@@ -2,7 +2,7 @@
 layout: post
 title: '[Final] 3 Dirty Prototypes'
 categories: [final]
-state: wip
+state: fin
 ---
 ## What do Prototypes Prototype [^1]
 ![proto-proto](/sp17-ms2/assets/img/project_final/dirty_proto/what_proto_proto.jpg){: width='450px'}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Final] Pre-midterm Presentation'
+title: '[wk7/Final] Pre-midterm Presentation'
 categories: [final]
 state: wip
 ---

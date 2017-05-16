@@ -4,9 +4,13 @@ title: '[Final] Tangible'
 categories: [final]
 state: fin
 ---
-Project Page: <https://taeyonii.github.io/sp17-ms2/tangible/>
+# Project Page
+<https://taeyonii.github.io/sp17-ms2/tangible/>
 
 *Tangible* is a VR quiz game with a tangible mystery box. A touch and feel box that contains various textural surfaces allows the player to activate and match the mystery texture with a visual representation in the VR head mounted display. It has creatures in the three dimensional virtual world whose materiality is undefined visually and player can match their touch of feeling to description of creatures’ identity. The project is for 15 to 30 aged digital natives who are familiar with digital technology and spend a significant amount of time touching digital screens in their everyday lives.
+
+# Aesthetics
+![screenshots](/sp17-ms2/assets/img/project_final/final/screenshots.png)
 
 # Input Device
 ![inputbox](/sp17-ms2/assets/img/project_final/final/inputbox_.png)

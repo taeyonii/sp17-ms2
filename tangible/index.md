@@ -4,7 +4,7 @@ layout: tangible
 
 ![world](/sp17-ms2/assets/img/project_final/final/world.png)
 ![title](/sp17-ms2/assets/img/project_final/final/title.png)
-![story](/sp17-ms2/assets/img/project_final/final/story.png)
+![story](/sp17-ms2/assets/img/project_final/final/story_.png)
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/vz-cbJOoMEQ?rel=0" frameborder="0" allowfullscreen></iframe>
 

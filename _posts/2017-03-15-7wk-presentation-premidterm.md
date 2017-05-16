@@ -2,7 +2,7 @@
 layout: post
 title: '[wk7/Final] Pre-midterm Presentation'
 categories: [final]
-state: wip
+state: fin
 ---
 
 <iframe src="https://docs.google.com/presentation/d/1WV01m_OZLsR3D1KdXH3viXejamN7PQGjtvBhHmCQ5vE/embed?start=false&loop=false&delayms=60000" frameborder="0" width="600" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

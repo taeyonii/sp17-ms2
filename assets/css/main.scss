@@ -362,6 +362,18 @@ blockquote {
 			line-height: 150%;
 			margin-bottom: 10px;
 		}
+		img {
+			margin-top: 10px;
+			margin-bottom: 10px;
+			max-width: 600px;
+			display: block;
+		    margin-left: auto;
+		    margin-right: auto;
+			@media screen and (max-width: 600px) {
+				width: 100%;
+				margin: auto;
+			}
+		}
 	}
 }
 
